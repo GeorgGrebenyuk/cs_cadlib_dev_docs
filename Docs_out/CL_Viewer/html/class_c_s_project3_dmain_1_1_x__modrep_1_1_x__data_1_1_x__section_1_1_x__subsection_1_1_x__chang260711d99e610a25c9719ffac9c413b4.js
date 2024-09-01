@@ -1,0 +1,7 @@
+var class_c_s_project3_dmain_1_1_x__modrep_1_1_x__data_1_1_x__section_1_1_x__subsection_1_1_x__chang260711d99e610a25c9719ffac9c413b4 =
+[
+    [ "X_explication_number", "class_c_s_project3_dmain_1_1_x__modrep_1_1_x__data_1_1_x__section_1_1_x__subsection_1_1_x__chang260711d99e610a25c9719ffac9c413b4.html#a700de76f0edbfe356d7b687eefcb7883", null ],
+    [ "X_explication_number", "class_c_s_project3_dmain_1_1_x__modrep_1_1_x__data_1_1_x__section_1_1_x__subsection_1_1_x__chang260711d99e610a25c9719ffac9c413b4.html#a54bf32cb658c38dacc54ea7f05820af2", null ],
+    [ "X_explication_number", "class_c_s_project3_dmain_1_1_x__modrep_1_1_x__data_1_1_x__section_1_1_x__subsection_1_1_x__chang260711d99e610a25c9719ffac9c413b4.html#abcfe760d046ec3e5f9983c6e65ddae15", null ],
+    [ "operator string", "class_c_s_project3_dmain_1_1_x__modrep_1_1_x__data_1_1_x__section_1_1_x__subsection_1_1_x__chang260711d99e610a25c9719ffac9c413b4.html#a29f91968b0660b3e0171d6c6349522cd", null ]
+];

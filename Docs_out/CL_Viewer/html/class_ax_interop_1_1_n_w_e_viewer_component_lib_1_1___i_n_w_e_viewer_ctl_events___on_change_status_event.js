@@ -1,0 +1,5 @@
+var class_ax_interop_1_1_n_w_e_viewer_component_lib_1_1___i_n_w_e_viewer_ctl_events___on_change_status_event =
+[
+    [ "_INWEViewerCtlEvents_OnChangeStatusEvent", "class_ax_interop_1_1_n_w_e_viewer_component_lib_1_1___i_n_w_e_viewer_ctl_events___on_change_status_event.html#ab490ed20c73830e544b6a684ac68fc26", null ],
+    [ "status", "class_ax_interop_1_1_n_w_e_viewer_component_lib_1_1___i_n_w_e_viewer_ctl_events___on_change_status_event.html#aef902c00dffeb8ce1a8adbcc12ddc3a7", null ]
+];

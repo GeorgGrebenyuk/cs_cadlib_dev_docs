@@ -1,0 +1,26 @@
+var class_c_s_project3_d_1_1_forms_1_1_expertise_1_1_app_1_1_expertise_domain_logic =
+[
+    [ "ExpertiseDomainLogic", "class_c_s_project3_d_1_1_forms_1_1_expertise_1_1_app_1_1_expertise_domain_logic.html#a481898af1a0bf184e0c80e3f110d130a", null ],
+    [ "CreateComment", "class_c_s_project3_d_1_1_forms_1_1_expertise_1_1_app_1_1_expertise_domain_logic.html#a918413f8398fc2cdcaae9963dd84af23", null ],
+    [ "CreateNote", "class_c_s_project3_d_1_1_forms_1_1_expertise_1_1_app_1_1_expertise_domain_logic.html#aecbe5dd51207f16959e7c7c8876b39eb", null ],
+    [ "DeleteNote", "class_c_s_project3_d_1_1_forms_1_1_expertise_1_1_app_1_1_expertise_domain_logic.html#a1bbb684bb648a94d0c9a6eeba1f18aa4", null ],
+    [ "OnOpenFile", "class_c_s_project3_d_1_1_forms_1_1_expertise_1_1_app_1_1_expertise_domain_logic.html#a94325bf8490eadfcb10bdae0bc788c81", null ],
+    [ "OnOpenReference", "class_c_s_project3_d_1_1_forms_1_1_expertise_1_1_app_1_1_expertise_domain_logic.html#a0cf45b68586e3b2e443dfe1e60afc5aa", null ],
+    [ "OnReference", "class_c_s_project3_d_1_1_forms_1_1_expertise_1_1_app_1_1_expertise_domain_logic.html#a398613c94fcbc24c0915d102bd12b429", null ],
+    [ "Update", "class_c_s_project3_d_1_1_forms_1_1_expertise_1_1_app_1_1_expertise_domain_logic.html#a7e47953def5c4433570f8d849104b768", null ],
+    [ "UpdateNote", "class_c_s_project3_d_1_1_forms_1_1_expertise_1_1_app_1_1_expertise_domain_logic.html#a43d4a503c9151bb5f9792bd80b4e0fd8", null ],
+    [ "UpdateNoteDate", "class_c_s_project3_d_1_1_forms_1_1_expertise_1_1_app_1_1_expertise_domain_logic.html#aa59c875d9b9a88f37f2c1886b2454f55", null ],
+    [ "PrmValueCommentAccept", "class_c_s_project3_d_1_1_forms_1_1_expertise_1_1_app_1_1_expertise_domain_logic.html#a58709dde83e999a455fab56bf19a521b", null ],
+    [ "PrmValueCommentReject", "class_c_s_project3_d_1_1_forms_1_1_expertise_1_1_app_1_1_expertise_domain_logic.html#a1ad33ce0e4b1a019f70bd3ba17b6b441", null ],
+    [ "CurrentDeadline", "class_c_s_project3_d_1_1_forms_1_1_expertise_1_1_app_1_1_expertise_domain_logic.html#abf7440f4a307602d2ed71f7088f9fcbb", null ],
+    [ "CurrentNote", "class_c_s_project3_d_1_1_forms_1_1_expertise_1_1_app_1_1_expertise_domain_logic.html#a487fcc66e470ff9a9590ee82310032dd", null ],
+    [ "CurrentNoteId", "class_c_s_project3_d_1_1_forms_1_1_expertise_1_1_app_1_1_expertise_domain_logic.html#aadb0437331c9c715ed70d40adc321861", null ],
+    [ "FileCategories", "class_c_s_project3_d_1_1_forms_1_1_expertise_1_1_app_1_1_expertise_domain_logic.html#a9c954d63c5846be7609559d2dbf4b105", null ],
+    [ "FilterMode", "class_c_s_project3_d_1_1_forms_1_1_expertise_1_1_app_1_1_expertise_domain_logic.html#a7bd68f9758c3f3fe4ba6713f9f50dc62", null ],
+    [ "IsSort", "class_c_s_project3_d_1_1_forms_1_1_expertise_1_1_app_1_1_expertise_domain_logic.html#a0536ed9f231249934e782da44a8f02cd", null ],
+    [ "Notes", "class_c_s_project3_d_1_1_forms_1_1_expertise_1_1_app_1_1_expertise_domain_logic.html#a2765798cdeb1b832f28870a2aa415e48", null ],
+    [ "State", "class_c_s_project3_d_1_1_forms_1_1_expertise_1_1_app_1_1_expertise_domain_logic.html#a1475a5158c5ed4045c92493a27fae791", null ],
+    [ "Statuses", "class_c_s_project3_d_1_1_forms_1_1_expertise_1_1_app_1_1_expertise_domain_logic.html#ac1aa84fb1f975628b565d214e65a4515", null ],
+    [ "User", "class_c_s_project3_d_1_1_forms_1_1_expertise_1_1_app_1_1_expertise_domain_logic.html#aa441567d3c4075d3336acc6ccbcb1fbc", null ],
+    [ "Users", "class_c_s_project3_d_1_1_forms_1_1_expertise_1_1_app_1_1_expertise_domain_logic.html#a07b459b7463d2a313c53ae177dbf9f19", null ]
+];

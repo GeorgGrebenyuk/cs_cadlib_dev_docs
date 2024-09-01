@@ -1,0 +1,8 @@
+var class_ax_interop_1_1_n_w_e_viewer_component_lib_1_1___i_n_w_e_viewer_ctl_events___on_min_distance_calculated_event =
+[
+    [ "_INWEViewerCtlEvents_OnMinDistanceCalculatedEvent", "class_ax_interop_1_1_n_w_e_viewer_component_lib_1_1___i_n_w_e_viewer_ctl_events___on_min_distance_calculated_event.html#af322151f27f4ab42c9d8b3ecdb32e161", null ],
+    [ "arrResult", "class_ax_interop_1_1_n_w_e_viewer_component_lib_1_1___i_n_w_e_viewer_ctl_events___on_min_distance_calculated_event.html#a9b65781252af68a80e524b2eefbfdbb4", null ],
+    [ "bAborted", "class_ax_interop_1_1_n_w_e_viewer_component_lib_1_1___i_n_w_e_viewer_ctl_events___on_min_distance_calculated_event.html#aa6eb3e04d06be3cc3d7387fa8da8b646", null ],
+    [ "nPercent", "class_ax_interop_1_1_n_w_e_viewer_component_lib_1_1___i_n_w_e_viewer_ctl_events___on_min_distance_calculated_event.html#a6ac32ee3b2c7a7c5b1abf10ba9ba00ce", null ],
+    [ "varWorldMoveVector", "class_ax_interop_1_1_n_w_e_viewer_component_lib_1_1___i_n_w_e_viewer_ctl_events___on_min_distance_calculated_event.html#ae64c9344551647daf1ab2387186735cb", null ]
+];

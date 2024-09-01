@@ -1,0 +1,7 @@
+var class_c_a_d_lib_kernel_1_1_xml_wrappers_1_1_x___p_a_r_a_m_e_t_e_r_s_1_1_x___p_a_r_a_m_e_t_e_r_1_cb5f7751e532db45752b9e9a8ec9e0a1 =
+[
+    [ "attributes", "class_c_a_d_lib_kernel_1_1_xml_wrappers_1_1_x___p_a_r_a_m_e_t_e_r_s_1_1_x___p_a_r_a_m_e_t_e_r_1_cb5f7751e532db45752b9e9a8ec9e0a1.html#aca4f3534479b876283cdf60251c12b31", null ],
+    [ "xelem", "class_c_a_d_lib_kernel_1_1_xml_wrappers_1_1_x___p_a_r_a_m_e_t_e_r_s_1_1_x___p_a_r_a_m_e_t_e_r_1_cb5f7751e532db45752b9e9a8ec9e0a1.html#a1265befc09c6a6154cfd699609547cbf", null ],
+    [ "categoryOrder", "class_c_a_d_lib_kernel_1_1_xml_wrappers_1_1_x___p_a_r_a_m_e_t_e_r_s_1_1_x___p_a_r_a_m_e_t_e_r_1_cb5f7751e532db45752b9e9a8ec9e0a1.html#ad54fd024b799559d621fcbd8e033eb6c", null ],
+    [ "order", "class_c_a_d_lib_kernel_1_1_xml_wrappers_1_1_x___p_a_r_a_m_e_t_e_r_s_1_1_x___p_a_r_a_m_e_t_e_r_1_cb5f7751e532db45752b9e9a8ec9e0a1.html#aa21625ec526d10b790710591967ee763", null ]
+];

@@ -1,0 +1,4 @@
+var class_c_a_d_lib_kernel_1_1_object_update_router_1_1_get_roles_of_authenticated_user_completed_event_args =
+[
+    [ "Result", "class_c_a_d_lib_kernel_1_1_object_update_router_1_1_get_roles_of_authenticated_user_completed_event_args.html#ac001a90095783cc1838b5b2fa1b5e51c", null ]
+];

@@ -1,0 +1,28 @@
+var class_c_s_project3_d_1_1_user_tagging_1_1_entities_1_1_tag_comment =
+[
+    [ "TagComment", "class_c_s_project3_d_1_1_user_tagging_1_1_entities_1_1_tag_comment.html#a44cd2e87ece3d5888fb136a1f7c29476", null ],
+    [ "TagComment", "class_c_s_project3_d_1_1_user_tagging_1_1_entities_1_1_tag_comment.html#ac787877a3284a3221d10b4bb94064803", null ],
+    [ "TagComment", "class_c_s_project3_d_1_1_user_tagging_1_1_entities_1_1_tag_comment.html#a0c69be5c0acf597250944ce761009e34", null ],
+    [ "ApplyParameters", "class_c_s_project3_d_1_1_user_tagging_1_1_entities_1_1_tag_comment.html#a751cba52e84f6091c8537dc5309b91d0", null ],
+    [ "ApplyToViewer", "class_c_s_project3_d_1_1_user_tagging_1_1_entities_1_1_tag_comment.html#ae04deb40b5a3907f6b29cbda3f00033a", null ],
+    [ "AskParams", "class_c_s_project3_d_1_1_user_tagging_1_1_entities_1_1_tag_comment.html#afea9fffe6de281fe30e07782d4fc9c9f", null ],
+    [ "GetPropertiesObject", "class_c_s_project3_d_1_1_user_tagging_1_1_entities_1_1_tag_comment.html#acbe2b949c5e7e24cf8c198f283e281d6", null ],
+    [ "GetPropertiesObject", "class_c_s_project3_d_1_1_user_tagging_1_1_entities_1_1_tag_comment.html#a1f9e47625cb91eb0faef5db08541b71e", null ],
+    [ "LoadData", "class_c_s_project3_d_1_1_user_tagging_1_1_entities_1_1_tag_comment.html#a334ada6e794847ec74b67d67ab943dd4", null ],
+    [ "OnDialogClosed", "class_c_s_project3_d_1_1_user_tagging_1_1_entities_1_1_tag_comment.html#aab619bd9621438f4ec3fa1606f996715", null ],
+    [ "SaveData", "class_c_s_project3_d_1_1_user_tagging_1_1_entities_1_1_tag_comment.html#a6f6650a8938cd80d9882dd1ec42dd516", null ],
+    [ "ShowEditDialog", "class_c_s_project3_d_1_1_user_tagging_1_1_entities_1_1_tag_comment.html#acb1c75d212400754570947d001d05247", null ],
+    [ "TransformBy", "class_c_s_project3_d_1_1_user_tagging_1_1_entities_1_1_tag_comment.html#a0d24f253dcd6e4affe5e13f26786d029", null ],
+    [ "m_prop", "class_c_s_project3_d_1_1_user_tagging_1_1_entities_1_1_tag_comment.html#a10944f40324bfd33793cb4b2ca99073e", null ],
+    [ "ClassDisplayName", "class_c_s_project3_d_1_1_user_tagging_1_1_entities_1_1_tag_comment.html#a04af02b5fe9fe3a60613976e867d4bb5", null ],
+    [ "Direction", "class_c_s_project3_d_1_1_user_tagging_1_1_entities_1_1_tag_comment.html#a203f1206592a80a17ebd413d4d90c159", null ],
+    [ "Icon", "class_c_s_project3_d_1_1_user_tagging_1_1_entities_1_1_tag_comment.html#ad6e823ba40817f71b91c11a1893b2cfb", null ],
+    [ "Kind", "class_c_s_project3_d_1_1_user_tagging_1_1_entities_1_1_tag_comment.html#acc36bda8a2ff5e1ed694c33ea78809d3", null ],
+    [ "Length", "class_c_s_project3_d_1_1_user_tagging_1_1_entities_1_1_tag_comment.html#a4c5e221733243212618b4d78b24959e9", null ],
+    [ "Orientation", "class_c_s_project3_d_1_1_user_tagging_1_1_entities_1_1_tag_comment.html#a1b2097c2feb61a69bfa47ab1e7c8f97c", null ],
+    [ "PointPos", "class_c_s_project3_d_1_1_user_tagging_1_1_entities_1_1_tag_comment.html#a1cc53429e3b73f92cc5d791b16dddc0e", null ],
+    [ "ShowTextInTag", "class_c_s_project3_d_1_1_user_tagging_1_1_entities_1_1_tag_comment.html#ac4c7d4d5db05e9d556d9767588d1f3b3", null ],
+    [ "TagText", "class_c_s_project3_d_1_1_user_tagging_1_1_entities_1_1_tag_comment.html#ad8ea4d420d9dacf7adc845675224d2f3", null ],
+    [ "Text", "class_c_s_project3_d_1_1_user_tagging_1_1_entities_1_1_tag_comment.html#aaab37aa7a5e90337c9e38ac9a330e51c", null ],
+    [ "Title", "class_c_s_project3_d_1_1_user_tagging_1_1_entities_1_1_tag_comment.html#a3ded47f1feed5e854e96bbeb3c932288", null ]
+];

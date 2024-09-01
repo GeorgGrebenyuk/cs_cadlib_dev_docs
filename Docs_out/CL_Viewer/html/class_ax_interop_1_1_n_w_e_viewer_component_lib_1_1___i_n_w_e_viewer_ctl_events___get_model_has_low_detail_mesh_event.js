@@ -1,0 +1,5 @@
+var class_ax_interop_1_1_n_w_e_viewer_component_lib_1_1___i_n_w_e_viewer_ctl_events___get_model_has_low_detail_mesh_event =
+[
+    [ "_INWEViewerCtlEvents_GetModelHasLowDetailMeshEvent", "class_ax_interop_1_1_n_w_e_viewer_component_lib_1_1___i_n_w_e_viewer_ctl_events___get_model_has_low_detail_mesh_event.html#a0578d6e98f3ec008ef940a3bef668489", null ],
+    [ "bResult", "class_ax_interop_1_1_n_w_e_viewer_component_lib_1_1___i_n_w_e_viewer_ctl_events___get_model_has_low_detail_mesh_event.html#a90afa26e569e91b6672c5cf59dc76681", null ]
+];

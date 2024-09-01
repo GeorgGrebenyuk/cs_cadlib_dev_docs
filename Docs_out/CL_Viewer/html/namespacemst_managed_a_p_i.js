@@ -1,0 +1,27 @@
+var namespacemst_managed_a_p_i =
+[
+    [ "CElement", "classmst_managed_a_p_i_1_1_c_element.html", "classmst_managed_a_p_i_1_1_c_element" ],
+    [ "CElementDownloadData", "classmst_managed_a_p_i_1_1_c_element_download_data.html", "classmst_managed_a_p_i_1_1_c_element_download_data" ],
+    [ "CElementMngd", "classmst_managed_a_p_i_1_1_c_element_mngd.html", "classmst_managed_a_p_i_1_1_c_element_mngd" ],
+    [ "CMngdParam", "classmst_managed_a_p_i_1_1_c_mngd_param.html", "classmst_managed_a_p_i_1_1_c_mngd_param" ],
+    [ "CMngdScheduleData", "classmst_managed_a_p_i_1_1_c_mngd_schedule_data.html", "classmst_managed_a_p_i_1_1_c_mngd_schedule_data" ],
+    [ "CMngdTaskScheduleInfo", "classmst_managed_a_p_i_1_1_c_mngd_task_schedule_info.html", "classmst_managed_a_p_i_1_1_c_mngd_task_schedule_info" ],
+    [ "CParam", "classmst_managed_a_p_i_1_1_c_param.html", "classmst_managed_a_p_i_1_1_c_param" ],
+    [ "CPoint3D", "classmst_managed_a_p_i_1_1_c_point3_d.html", "classmst_managed_a_p_i_1_1_c_point3_d" ],
+    [ "IProgressWnd", "interfacemst_managed_a_p_i_1_1_i_progress_wnd.html", "interfacemst_managed_a_p_i_1_1_i_progress_wnd" ],
+    [ "LibDatabase", "classmst_managed_a_p_i_1_1_lib_database.html", "classmst_managed_a_p_i_1_1_lib_database" ],
+    [ "LibObjectInfo", "classmst_managed_a_p_i_1_1_lib_object_info.html", "classmst_managed_a_p_i_1_1_lib_object_info" ],
+    [ "LinkedObjectsRec", "structmst_managed_a_p_i_1_1_linked_objects_rec.html", "structmst_managed_a_p_i_1_1_linked_objects_rec" ],
+    [ "LinkInfoRec", "structmst_managed_a_p_i_1_1_link_info_rec.html", "structmst_managed_a_p_i_1_1_link_info_rec" ],
+    [ "MstudioCore", "classmst_managed_a_p_i_1_1_mstudio_core.html", "classmst_managed_a_p_i_1_1_mstudio_core" ],
+    [ "mstUI", "classmst_managed_a_p_i_1_1mst_u_i.html", "classmst_managed_a_p_i_1_1mst_u_i" ],
+    [ "ObjectRelationType", "classmst_managed_a_p_i_1_1_object_relation_type.html", "classmst_managed_a_p_i_1_1_object_relation_type" ],
+    [ "ProjectBuildingHierarchy", "classmst_managed_a_p_i_1_1_project_building_hierarchy.html", "classmst_managed_a_p_i_1_1_project_building_hierarchy" ],
+    [ "ProjectCustomHierarchy", "classmst_managed_a_p_i_1_1_project_custom_hierarchy.html", "classmst_managed_a_p_i_1_1_project_custom_hierarchy" ],
+    [ "ProjectDBUtils", "classmst_managed_a_p_i_1_1_project_d_b_utils.html", "classmst_managed_a_p_i_1_1_project_d_b_utils" ],
+    [ "ProjectDocuments", "classmst_managed_a_p_i_1_1_project_documents.html", "classmst_managed_a_p_i_1_1_project_documents" ],
+    [ "ProjectMessageManager", "classmst_managed_a_p_i_1_1_project_message_manager.html", "classmst_managed_a_p_i_1_1_project_message_manager" ],
+    [ "ProjectSAGSVG", "classmst_managed_a_p_i_1_1_project_s_a_g_s_v_g.html", "classmst_managed_a_p_i_1_1_project_s_a_g_s_v_g" ],
+    [ "ProjectService", "classmst_managed_a_p_i_1_1_project_service.html", "classmst_managed_a_p_i_1_1_project_service" ],
+    [ "ProjectStructureHierarchy", "classmst_managed_a_p_i_1_1_project_structure_hierarchy.html", "classmst_managed_a_p_i_1_1_project_structure_hierarchy" ]
+];

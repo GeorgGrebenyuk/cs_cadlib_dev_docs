@@ -1,0 +1,4 @@
+var class_c_a_d_lib_kernel_1_1_object_update_1_1_get_object_category_caption_by_id_completed_event_args =
+[
+    [ "Result", "class_c_a_d_lib_kernel_1_1_object_update_1_1_get_object_category_caption_by_id_completed_event_args.html#ad85b15dddfa1137465361d26d63f03b9", null ]
+];

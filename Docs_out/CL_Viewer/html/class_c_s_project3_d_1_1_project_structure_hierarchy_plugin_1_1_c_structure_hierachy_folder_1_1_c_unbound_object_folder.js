@@ -1,0 +1,9 @@
+var class_c_s_project3_d_1_1_project_structure_hierarchy_plugin_1_1_c_structure_hierachy_folder_1_1_c_unbound_object_folder =
+[
+    [ "CUnboundObjectFolder", "class_c_s_project3_d_1_1_project_structure_hierarchy_plugin_1_1_c_structure_hierachy_folder_1_1_c_unbound_object_folder.html#ae4c91f910bb79094b4dedaf6c05dc68f", null ],
+    [ "ExpandFolderNode", "class_c_s_project3_d_1_1_project_structure_hierarchy_plugin_1_1_c_structure_hierachy_folder_1_1_c_unbound_object_folder.html#aecf542866767682b94fd1f8d95757fbf", null ],
+    [ "GetFilterExpressions", "class_c_s_project3_d_1_1_project_structure_hierarchy_plugin_1_1_c_structure_hierachy_folder_1_1_c_unbound_object_folder.html#a6c5a493077d65cee0bd14098551911a9", null ],
+    [ "GetFolderIconKey", "class_c_s_project3_d_1_1_project_structure_hierarchy_plugin_1_1_c_structure_hierachy_folder_1_1_c_unbound_object_folder.html#a44c3c18cd11ea757a1d12f23093a92ae", null ],
+    [ "GetFolderMenuItems", "class_c_s_project3_d_1_1_project_structure_hierarchy_plugin_1_1_c_structure_hierachy_folder_1_1_c_unbound_object_folder.html#a8008001bd040d2b035976973b88ee056", null ],
+    [ "OwnerPlugin", "class_c_s_project3_d_1_1_project_structure_hierarchy_plugin_1_1_c_structure_hierachy_folder_1_1_c_unbound_object_folder.html#a3850ca906150a8a0a9783825febf2ddc", null ]
+];

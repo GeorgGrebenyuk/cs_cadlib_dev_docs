@@ -1,0 +1,4 @@
+var class_c_a_d_lib_kernel_1_1_object_update_1_1_get_object3_d_shapes_info_by_ids_completed_event_args =
+[
+    [ "Result", "class_c_a_d_lib_kernel_1_1_object_update_1_1_get_object3_d_shapes_info_by_ids_completed_event_args.html#a9e1fc907b107ace88b7a0c697be91cab", null ]
+];

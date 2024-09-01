@@ -1,0 +1,25 @@
+var class_c_s_app_services_1_1_xml_wrappers_1_1_x__exchange_1_1_x__tables_1_1_x__table_1_1attributes =
+[
+    [ "attributes", "class_c_s_app_services_1_1_xml_wrappers_1_1_x__exchange_1_1_x__tables_1_1_x__table_1_1attributes.html#ae9bcc484be7a46b99eeaf9ebf424cf8d", null ],
+    [ "[instance initializer]", "class_c_s_app_services_1_1_xml_wrappers_1_1_x__exchange_1_1_x__tables_1_1_x__table_1_1attributes.html#a5c034ee73e9ac213eae80ec4ec5493ca", null ],
+    [ "xelem", "class_c_s_app_services_1_1_xml_wrappers_1_1_x__exchange_1_1_x__tables_1_1_x__table_1_1attributes.html#a47f90466fb2964fd629414602f01a7b3", null ],
+    [ "caption", "class_c_s_app_services_1_1_xml_wrappers_1_1_x__exchange_1_1_x__tables_1_1_x__table_1_1attributes.html#a022fef5e39f5cad1752f98799f8162fb", null ],
+    [ "disabled", "class_c_s_app_services_1_1_xml_wrappers_1_1_x__exchange_1_1_x__tables_1_1_x__table_1_1attributes.html#aaf71da45a5a222d5a63cbb8ba16361ff", null ],
+    [ "extended", "class_c_s_app_services_1_1_xml_wrappers_1_1_x__exchange_1_1_x__tables_1_1_x__table_1_1attributes.html#a7ca795eb98e945b39fc1ae418170b671", null ],
+    [ "id", "class_c_s_app_services_1_1_xml_wrappers_1_1_x__exchange_1_1_x__tables_1_1_x__table_1_1attributes.html#a3eaa8f8f55ee759d4f471720d9c5fda2", null ],
+    [ "idTypeExclude", "class_c_s_app_services_1_1_xml_wrappers_1_1_x__exchange_1_1_x__tables_1_1_x__table_1_1attributes.html#a91ccf70ca42bbd79ce1c67e17d6a6a48", null ],
+    [ "idTypeInclude", "class_c_s_app_services_1_1_xml_wrappers_1_1_x__exchange_1_1_x__tables_1_1_x__table_1_1attributes.html#a3a229089fdd31241ceb2bb29fc55b126", null ],
+    [ "logging", "class_c_s_app_services_1_1_xml_wrappers_1_1_x__exchange_1_1_x__tables_1_1_x__table_1_1attributes.html#a9a56e1630358b85a8b3ac430f0b9ba9b", null ],
+    [ "name", "class_c_s_app_services_1_1_xml_wrappers_1_1_x__exchange_1_1_x__tables_1_1_x__table_1_1attributes.html#afe6b78ccb7c152d03eb5108b92cdbecc", null ],
+    [ "paramsData", "class_c_s_app_services_1_1_xml_wrappers_1_1_x__exchange_1_1_x__tables_1_1_x__table_1_1attributes.html#a495166aedc5d2069da006d98212757ee", null ],
+    [ "paramValues", "class_c_s_app_services_1_1_xml_wrappers_1_1_x__exchange_1_1_x__tables_1_1_x__table_1_1attributes.html#a1f7eda20840c906d356a331b6d0d0507", null ],
+    [ "previousNames", "class_c_s_app_services_1_1_xml_wrappers_1_1_x__exchange_1_1_x__tables_1_1_x__table_1_1attributes.html#af9f18bfba1e5d39027c2bf0c0c0604f0", null ],
+    [ "recourse", "class_c_s_app_services_1_1_xml_wrappers_1_1_x__exchange_1_1_x__tables_1_1_x__table_1_1attributes.html#a9e68a9f350aad594fde3c6e9a78a06c7", null ],
+    [ "replace", "class_c_s_app_services_1_1_xml_wrappers_1_1_x__exchange_1_1_x__tables_1_1_x__table_1_1attributes.html#a0b771685149856bc601e1eb238656696", null ],
+    [ "storage_name", "class_c_s_app_services_1_1_xml_wrappers_1_1_x__exchange_1_1_x__tables_1_1_x__table_1_1attributes.html#a4164acbb49c88e7dbfd785ddafe93051", null ],
+    [ "temporary", "class_c_s_app_services_1_1_xml_wrappers_1_1_x__exchange_1_1_x__tables_1_1_x__table_1_1attributes.html#a609e8bd1caee22bb706a4400fb4b12b7", null ],
+    [ "uniqueReferences", "class_c_s_app_services_1_1_xml_wrappers_1_1_x__exchange_1_1_x__tables_1_1_x__table_1_1attributes.html#ac40171720771532289abffcd5613f49f", null ],
+    [ "upgradeData", "class_c_s_app_services_1_1_xml_wrappers_1_1_x__exchange_1_1_x__tables_1_1_x__table_1_1attributes.html#a99b585039411f436e4c89af594c25607", null ],
+    [ "version", "class_c_s_app_services_1_1_xml_wrappers_1_1_x__exchange_1_1_x__tables_1_1_x__table_1_1attributes.html#ac7ba4eb5aadf72b9cd2ae330e7f93f5b", null ],
+    [ "vertical", "class_c_s_app_services_1_1_xml_wrappers_1_1_x__exchange_1_1_x__tables_1_1_x__table_1_1attributes.html#a53680c96a7d3d54db8e77ab42747e388", null ]
+];

@@ -1,0 +1,6 @@
+var class_c_s_project3_d_1_1_user_tagging_1_1_properties_1_1_selection_trigger_properties_1_1_selecting_collection_wrapper =
+[
+    [ "SelectingCollectionWrapper", "class_c_s_project3_d_1_1_user_tagging_1_1_properties_1_1_selection_trigger_properties_1_1_selecting_collection_wrapper.html#ab4be9e53259c4c1b35819c29a8263539", null ],
+    [ "ToString", "class_c_s_project3_d_1_1_user_tagging_1_1_properties_1_1_selection_trigger_properties_1_1_selecting_collection_wrapper.html#acc1fa5d9dbf12e8abe1ad6e2be1cf18d", null ],
+    [ "owner", "class_c_s_project3_d_1_1_user_tagging_1_1_properties_1_1_selection_trigger_properties_1_1_selecting_collection_wrapper.html#ac2dc958694fd5a415daee37b9e2a25f9", null ]
+];

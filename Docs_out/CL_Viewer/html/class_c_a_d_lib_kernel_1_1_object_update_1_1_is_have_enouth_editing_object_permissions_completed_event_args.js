@@ -1,0 +1,4 @@
+var class_c_a_d_lib_kernel_1_1_object_update_1_1_is_have_enouth_editing_object_permissions_completed_event_args =
+[
+    [ "Result", "class_c_a_d_lib_kernel_1_1_object_update_1_1_is_have_enouth_editing_object_permissions_completed_event_args.html#a3ff3a0de194f3e88f2aaeb183893b2f5", null ]
+];

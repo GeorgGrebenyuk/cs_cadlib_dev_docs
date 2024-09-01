@@ -1,0 +1,4 @@
+var class_c_a_d_lib_kernel_1_1_object_update_1_1_get_files_info_by_type_and_category_completed_event_args =
+[
+    [ "Result", "class_c_a_d_lib_kernel_1_1_object_update_1_1_get_files_info_by_type_and_category_completed_event_args.html#a05036cde604015b761d005135b18fbd2", null ]
+];

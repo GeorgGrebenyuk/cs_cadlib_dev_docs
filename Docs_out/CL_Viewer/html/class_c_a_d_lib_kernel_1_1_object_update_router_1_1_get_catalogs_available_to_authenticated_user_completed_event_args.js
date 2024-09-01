@@ -1,0 +1,4 @@
+var class_c_a_d_lib_kernel_1_1_object_update_router_1_1_get_catalogs_available_to_authenticated_user_completed_event_args =
+[
+    [ "Result", "class_c_a_d_lib_kernel_1_1_object_update_router_1_1_get_catalogs_available_to_authenticated_user_completed_event_args.html#afab8c6f1f0c5267c66372a2a1ff85696", null ]
+];

@@ -1,0 +1,18 @@
+var namespace_c_s_project3_d_1_1_user_tagging_1_1_properties =
+[
+    [ "AngleDimensionProperites", "class_c_s_project3_d_1_1_user_tagging_1_1_properties_1_1_angle_dimension_properites.html", "class_c_s_project3_d_1_1_user_tagging_1_1_properties_1_1_angle_dimension_properites" ],
+    [ "CameraTriggerProperites", "class_c_s_project3_d_1_1_user_tagging_1_1_properties_1_1_camera_trigger_properites.html", "class_c_s_project3_d_1_1_user_tagging_1_1_properties_1_1_camera_trigger_properites" ],
+    [ "DimensionalCylinderProperites", "class_c_s_project3_d_1_1_user_tagging_1_1_properties_1_1_dimensional_cylinder_properites.html", "class_c_s_project3_d_1_1_user_tagging_1_1_properties_1_1_dimensional_cylinder_properites" ],
+    [ "DimensionalSphereProperites", "class_c_s_project3_d_1_1_user_tagging_1_1_properties_1_1_dimensional_sphere_properites.html", "class_c_s_project3_d_1_1_user_tagging_1_1_properties_1_1_dimensional_sphere_properites" ],
+    [ "DrawingTag2dProperites", "class_c_s_project3_d_1_1_user_tagging_1_1_properties_1_1_drawing_tag2d_properites.html", "class_c_s_project3_d_1_1_user_tagging_1_1_properties_1_1_drawing_tag2d_properites" ],
+    [ "PositionVariantProperites", "class_c_s_project3_d_1_1_user_tagging_1_1_properties_1_1_position_variant_properites.html", "class_c_s_project3_d_1_1_user_tagging_1_1_properties_1_1_position_variant_properites" ],
+    [ "PresetSettings", "class_c_s_project3_d_1_1_user_tagging_1_1_properties_1_1_preset_settings.html", "class_c_s_project3_d_1_1_user_tagging_1_1_properties_1_1_preset_settings" ],
+    [ "SelectionTriggerProperties", "class_c_s_project3_d_1_1_user_tagging_1_1_properties_1_1_selection_trigger_properties.html", "class_c_s_project3_d_1_1_user_tagging_1_1_properties_1_1_selection_trigger_properties" ],
+    [ "TagCommentProperites", "class_c_s_project3_d_1_1_user_tagging_1_1_properties_1_1_tag_comment_properites.html", "class_c_s_project3_d_1_1_user_tagging_1_1_properties_1_1_tag_comment_properites" ],
+    [ "TagCommentProperitesTypical", "class_c_s_project3_d_1_1_user_tagging_1_1_properties_1_1_tag_comment_properites_typical.html", "class_c_s_project3_d_1_1_user_tagging_1_1_properties_1_1_tag_comment_properites_typical" ],
+    [ "TwoPointsDimensionProperites", "class_c_s_project3_d_1_1_user_tagging_1_1_properties_1_1_two_points_dimension_properites.html", "class_c_s_project3_d_1_1_user_tagging_1_1_properties_1_1_two_points_dimension_properites" ],
+    [ "UserTaggingTextProperties", "class_c_s_project3_d_1_1_user_tagging_1_1_properties_1_1_user_tagging_text_properties.html", "class_c_s_project3_d_1_1_user_tagging_1_1_properties_1_1_user_tagging_text_properties" ],
+    [ "VariantEditor", "class_c_s_project3_d_1_1_user_tagging_1_1_properties_1_1_variant_editor.html", "class_c_s_project3_d_1_1_user_tagging_1_1_properties_1_1_variant_editor" ],
+    [ "VariantEditorParam", "class_c_s_project3_d_1_1_user_tagging_1_1_properties_1_1_variant_editor_param.html", "class_c_s_project3_d_1_1_user_tagging_1_1_properties_1_1_variant_editor_param" ],
+    [ "Visible3DTagProperties", "class_c_s_project3_d_1_1_user_tagging_1_1_properties_1_1_visible3_d_tag_properties.html", "class_c_s_project3_d_1_1_user_tagging_1_1_properties_1_1_visible3_d_tag_properties" ]
+];

@@ -1,0 +1,5 @@
+var class_ax_interop_1_1_n_w_e_viewer_component_lib_1_1___i_n_w_e_viewer_ctl_events___on_helper_view_type_menu_event =
+[
+    [ "_INWEViewerCtlEvents_OnHelperViewTypeMenuEvent", "class_ax_interop_1_1_n_w_e_viewer_component_lib_1_1___i_n_w_e_viewer_ctl_events___on_helper_view_type_menu_event.html#ae91d25d8d47364b409911f0133c049ba", null ],
+    [ "nProjType", "class_ax_interop_1_1_n_w_e_viewer_component_lib_1_1___i_n_w_e_viewer_ctl_events___on_helper_view_type_menu_event.html#a7a7f51234ec0adf11f548bf80dbed24e", null ]
+];

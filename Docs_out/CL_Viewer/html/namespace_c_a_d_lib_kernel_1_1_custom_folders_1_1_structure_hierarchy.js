@@ -1,0 +1,4 @@
+var namespace_c_a_d_lib_kernel_1_1_custom_folders_1_1_structure_hierarchy =
+[
+    [ "CStructureHierarchyFolder", "class_c_a_d_lib_kernel_1_1_custom_folders_1_1_structure_hierarchy_1_1_c_structure_hierarchy_folder.html", "class_c_a_d_lib_kernel_1_1_custom_folders_1_1_structure_hierarchy_1_1_c_structure_hierarchy_folder" ]
+];

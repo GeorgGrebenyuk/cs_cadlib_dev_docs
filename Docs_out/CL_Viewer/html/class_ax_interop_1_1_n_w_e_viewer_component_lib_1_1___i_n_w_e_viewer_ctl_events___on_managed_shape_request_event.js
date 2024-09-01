@@ -1,0 +1,5 @@
+var class_ax_interop_1_1_n_w_e_viewer_component_lib_1_1___i_n_w_e_viewer_ctl_events___on_managed_shape_request_event =
+[
+    [ "_INWEViewerCtlEvents_OnManagedShapeRequestEvent", "class_ax_interop_1_1_n_w_e_viewer_component_lib_1_1___i_n_w_e_viewer_ctl_events___on_managed_shape_request_event.html#a45362a1d0ecd05608cfc0492e1c65b6d", null ],
+    [ "nShapeID", "class_ax_interop_1_1_n_w_e_viewer_component_lib_1_1___i_n_w_e_viewer_ctl_events___on_managed_shape_request_event.html#a9189af925d742e53bd16ac9541345a74", null ]
+];

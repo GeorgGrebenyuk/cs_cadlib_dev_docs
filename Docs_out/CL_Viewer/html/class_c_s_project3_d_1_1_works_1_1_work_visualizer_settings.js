@@ -1,0 +1,28 @@
+var class_c_s_project3_d_1_1_works_1_1_work_visualizer_settings =
+[
+    [ "WorkVisualizerSettings", "class_c_s_project3_d_1_1_works_1_1_work_visualizer_settings.html#adaf1f778a3b9134bb40d36bcd235b02f", null ],
+    [ "GetFileName", "class_c_s_project3_d_1_1_works_1_1_work_visualizer_settings.html#aaa641ed60d8861a3ef4690954e18b463", null ],
+    [ "GetName", "class_c_s_project3_d_1_1_works_1_1_work_visualizer_settings.html#a0d2158935e2d4871f67e452c23eb8eae", null ],
+    [ "SetDefaultValues", "class_c_s_project3_d_1_1_works_1_1_work_visualizer_settings.html#ac5e5185ddd3bbcd62a0c17f3dfba775c", null ],
+    [ "m_bRecordAdjustScript", "class_c_s_project3_d_1_1_works_1_1_work_visualizer_settings.html#a5c3378ffbcf8f9649e8bc6c4e8eb0fff", null ],
+    [ "m_fRecordTimeSpeed", "class_c_s_project3_d_1_1_works_1_1_work_visualizer_settings.html#afb528fc3b1e96aca636bfd7cd09593c8", null ],
+    [ "m_nRecordTimeMode", "class_c_s_project3_d_1_1_works_1_1_work_visualizer_settings.html#a75f7daff34b9600add8f851206072dc4", null ],
+    [ "m_recordEndDate", "class_c_s_project3_d_1_1_works_1_1_work_visualizer_settings.html#a23f54453acaf8840e5b8ebda0cedb8f9", null ],
+    [ "m_recordStartDate", "class_c_s_project3_d_1_1_works_1_1_work_visualizer_settings.html#a7c1b9ca73bd00011357abd1303346c8e", null ],
+    [ "m_recordTimeSpan", "class_c_s_project3_d_1_1_works_1_1_work_visualizer_settings.html#a8ddb439c635d62ecbdeddd3d5fe48699", null ],
+    [ "m_strRecordScriptName", "class_c_s_project3_d_1_1_works_1_1_work_visualizer_settings.html#aaf0e316d3826e61e7e2924d7ffd8b265", null ],
+    [ "ObjectsViewGeneratorFutureLimit", "class_c_s_project3_d_1_1_works_1_1_work_visualizer_settings.html#a8d0fd3a6deb2a7f10d31ea3c64e0c86b", null ],
+    [ "ObjectsViewGeneratorPastLimit", "class_c_s_project3_d_1_1_works_1_1_work_visualizer_settings.html#a0c4ffcb0b9df69b4b0fbe1f384d404c2", null ],
+    [ "colorCurrentFactObjects", "class_c_s_project3_d_1_1_works_1_1_work_visualizer_settings.html#a2e329361857d0fb3487f65279071b600", null ],
+    [ "colorCurrentLateFactObjects", "class_c_s_project3_d_1_1_works_1_1_work_visualizer_settings.html#a1950e872c608da9f3ef7473debf9452b", null ],
+    [ "colorCurrentObjects", "class_c_s_project3_d_1_1_works_1_1_work_visualizer_settings.html#aefd3c5e20132d363336c258971f7bb40", null ],
+    [ "colorFutureObjects", "class_c_s_project3_d_1_1_works_1_1_work_visualizer_settings.html#a7223c17c5bf0f210015c52c01bf59963", null ],
+    [ "colorNearesFutureObjects", "class_c_s_project3_d_1_1_works_1_1_work_visualizer_settings.html#accdc94b665a71ec732c1b1160d90e284", null ],
+    [ "colorNotFactObjects", "class_c_s_project3_d_1_1_works_1_1_work_visualizer_settings.html#a48d0af62b733828341160eb75a4ccdb8", null ],
+    [ "colorPastFactObjects", "class_c_s_project3_d_1_1_works_1_1_work_visualizer_settings.html#a81c731902f3cbe755c14388e9639e05c", null ],
+    [ "colorPastLateFactObjects", "class_c_s_project3_d_1_1_works_1_1_work_visualizer_settings.html#a98e2743f6cb4f9256005e26bc3102454", null ],
+    [ "colorPastObjects", "class_c_s_project3_d_1_1_works_1_1_work_visualizer_settings.html#a0752fd8d51e5ac15153f0bfcf55776d7", null ],
+    [ "colorUnassignedObjects", "class_c_s_project3_d_1_1_works_1_1_work_visualizer_settings.html#a807f5c5410d61aee4c7e244a782819e6", null ],
+    [ "Inst", "class_c_s_project3_d_1_1_works_1_1_work_visualizer_settings.html#a6d865e81b4d76222446f037db14e5be7", null ],
+    [ "timeSpanNearesFutureDays", "class_c_s_project3_d_1_1_works_1_1_work_visualizer_settings.html#a5ec2ae6f47f229f75442bd7e8be56353", null ]
+];

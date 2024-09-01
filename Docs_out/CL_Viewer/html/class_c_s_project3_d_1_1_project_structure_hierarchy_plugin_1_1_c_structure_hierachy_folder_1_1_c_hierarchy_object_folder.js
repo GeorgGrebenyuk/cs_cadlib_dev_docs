@@ -1,0 +1,15 @@
+var class_c_s_project3_d_1_1_project_structure_hierarchy_plugin_1_1_c_structure_hierachy_folder_1_1_c_hierarchy_object_folder =
+[
+    [ "CHierarchyObjectFolder", "class_c_s_project3_d_1_1_project_structure_hierarchy_plugin_1_1_c_structure_hierachy_folder_1_1_c_hierarchy_object_folder.html#abfce6e3f1bdc76f68016cf9ebd490d67", null ],
+    [ "ExpandFolderNode", "class_c_s_project3_d_1_1_project_structure_hierarchy_plugin_1_1_c_structure_hierachy_folder_1_1_c_hierarchy_object_folder.html#a3ac8dd5af54c55b4451e142a7bd292dd", null ],
+    [ "GetBlockSubfolderEditMenu", "class_c_s_project3_d_1_1_project_structure_hierarchy_plugin_1_1_c_structure_hierachy_folder_1_1_c_hierarchy_object_folder.html#a1648d6290a7a7f4f0958c932beb412bc", null ],
+    [ "GetFilterExpressions", "class_c_s_project3_d_1_1_project_structure_hierarchy_plugin_1_1_c_structure_hierachy_folder_1_1_c_hierarchy_object_folder.html#ae5ae6e885f687609e62aea3096ffc3b9", null ],
+    [ "GetFolderIconKey", "class_c_s_project3_d_1_1_project_structure_hierarchy_plugin_1_1_c_structure_hierachy_folder_1_1_c_hierarchy_object_folder.html#a603ab02fec87f9d6236bd270605bbc49", null ],
+    [ "GetFolderMenuItems", "class_c_s_project3_d_1_1_project_structure_hierarchy_plugin_1_1_c_structure_hierachy_folder_1_1_c_hierarchy_object_folder.html#a0a73491a4241ad2ccf3d867fb090c451", null ],
+    [ "GetSubFolders", "class_c_s_project3_d_1_1_project_structure_hierarchy_plugin_1_1_c_structure_hierachy_folder_1_1_c_hierarchy_object_folder.html#ab81809fedeaabdec45482f164169b396", null ],
+    [ "ShowObjectsTree", "class_c_s_project3_d_1_1_project_structure_hierarchy_plugin_1_1_c_structure_hierachy_folder_1_1_c_hierarchy_object_folder.html#a7b29e72eff4c8a1d07e846725f32be31", null ],
+    [ "TryReadFolderObject", "class_c_s_project3_d_1_1_project_structure_hierarchy_plugin_1_1_c_structure_hierachy_folder_1_1_c_hierarchy_object_folder.html#a4f6659f8023c367528b8cb77a8a6ca36", null ],
+    [ "EditStructureHierarchy", "class_c_s_project3_d_1_1_project_structure_hierarchy_plugin_1_1_c_structure_hierachy_folder_1_1_c_hierarchy_object_folder.html#a1c4c8a65599c4492fa313eb3c73e7dfb", null ],
+    [ "OwnerPlugin", "class_c_s_project3_d_1_1_project_structure_hierarchy_plugin_1_1_c_structure_hierachy_folder_1_1_c_hierarchy_object_folder.html#afcc0412b957b752fa44c34edabff76bf", null ],
+    [ "PSHObject", "class_c_s_project3_d_1_1_project_structure_hierarchy_plugin_1_1_c_structure_hierachy_folder_1_1_c_hierarchy_object_folder.html#ab6236d442ff77b747265b41c5442bf2e", null ]
+];

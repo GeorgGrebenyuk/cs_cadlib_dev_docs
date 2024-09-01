@@ -1,0 +1,10 @@
+var class_c_s_app_services_1_1_xml_wrappers_1_1_x__exchange_1_1_x__tables_1_1_x__table_1_1_x__post_import_1_1_x__query =
+[
+    [ "attributes", "class_c_s_app_services_1_1_xml_wrappers_1_1_x__exchange_1_1_x__tables_1_1_x__table_1_1_x__post_ib256ad4fee2f696d11c47ff68a148dc2.html", "class_c_s_app_services_1_1_xml_wrappers_1_1_x__exchange_1_1_x__tables_1_1_x__table_1_1_x__post_ib256ad4fee2f696d11c47ff68a148dc2" ],
+    [ "X_query", "class_c_s_app_services_1_1_xml_wrappers_1_1_x__exchange_1_1_x__tables_1_1_x__table_1_1_x__post_import_1_1_x__query.html#abbc5d01ef906690fd04b4f3c680bf7f9", null ],
+    [ "X_query", "class_c_s_app_services_1_1_xml_wrappers_1_1_x__exchange_1_1_x__tables_1_1_x__table_1_1_x__post_import_1_1_x__query.html#a49dd6cc20319d7495143517858e75a84", null ],
+    [ "X_query", "class_c_s_app_services_1_1_xml_wrappers_1_1_x__exchange_1_1_x__tables_1_1_x__table_1_1_x__post_import_1_1_x__query.html#aaad03b6508f602ed563e10ba0f2df150", null ],
+    [ "Initialize", "class_c_s_app_services_1_1_xml_wrappers_1_1_x__exchange_1_1_x__tables_1_1_x__table_1_1_x__post_import_1_1_x__query.html#a45fe7320a814b5ab69a5b9ad27873086", null ],
+    [ "operator string", "class_c_s_app_services_1_1_xml_wrappers_1_1_x__exchange_1_1_x__tables_1_1_x__table_1_1_x__post_import_1_1_x__query.html#a3df80115e8933b03cf0ea3b83b70cd6d", null ],
+    [ "_", "class_c_s_app_services_1_1_xml_wrappers_1_1_x__exchange_1_1_x__tables_1_1_x__table_1_1_x__post_import_1_1_x__query.html#af237d62c20aafe093166ba6628d8851d", null ]
+];
